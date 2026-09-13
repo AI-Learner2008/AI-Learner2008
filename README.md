@@ -1,35 +1,73 @@
-# 👋 Hi, I'm Maseera (@AI-Learner2008)
+# 👋 Hi, I'm Maseera Bagwan
 
-🚀 Passionate about **AI, Machine Learning, Python, and building products that solve real-world problems.**
+### Student Developer | AI · Cybersecurity · Creative Tech
 
-- 🌱 Currently learning:
-  - Python
-  - Data Science & Machine Learning
-  - Full-stack AI Development
-  - Modern Web Development (Lovable, Supabase & AI tools)
+I'm interested in building useful technology that solves real-world problems. I enjoy exploring how AI, software development, and design can come together to create practical products.
 
-- 💻 Currently building:
-  - **StudentOS** – An AI-powered productivity platform that helps students stay organized, focused, and productive.
-
-- 🤝 Looking to collaborate on:
-  - AI/ML Projects
-  - Open Source
-  - Student-focused Products
-  - Hackathons & Innovative Ideas
-
-- 📫 Reach me at: **bagwanmaseera05@gmail.com**
-
-- ⚡ Fun fact:
-  I love turning ideas into real products by combining AI, design, and code. I'm always experimenting, learning, and building.
+Currently learning, experimenting, and turning ideas into working projects.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I'm Building
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
+### 🧠 StudentOS
+
+An AI-powered student workspace designed to help students organize their studies, plan their work, and track their progress.
+
+**Exploring:** AI-powered study planning, productivity, and personalized workflows.
+
+### 🛡️ NetShield
+
+A cybersecurity project focused on Wi-Fi security intelligence.
+
+The goal is to help users understand their network, explore connected devices, and identify potential security concerns.
+
+**Exploring:** Network analysis, cybersecurity, and security-focused software development.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Development**
+
+* Python
+* JavaScript
+* HTML & CSS
+
+**Tools & Technologies**
+
+* Git & GitHub
+* React
+* Supabase
+* AI development tools
+
+---
+
+## 🌱 Currently Exploring
+
+* Artificial Intelligence & Machine Learning
+* Python and Data Science
+* Cybersecurity and Network Security
+* Full-stack Web Development
+* UI/UX Design and Product Development
+
+---
+
+## 🤝 Open to
+
+* Collaborating on interesting projects
+* Exploring open-source software
+* Student-focused technology
+* Hackathons and creative experiments
+
+---
+
+## ⚡ A Little About Me
+
+I believe in learning by building.
+
+Whether it's experimenting with AI, developing a useful application, or exploring cybersecurity, I'm interested in understanding how things work and turning that knowledge into something practical.
+
+**Building skills, one project at a time.** 🚀
 
 > *"Building today. Learning every day. Creating for tomorrow."* 🚀
